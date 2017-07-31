@@ -2,9 +2,7 @@
 
 The corpus is introduced in this paper:
 
-"A Multilingual Parallel Corpus for Improving Machine Translation on Southeast Asian Languages"
-
-in The Machine Translation Summit XVI, Nagoya Japan, 2017.
+Long Trieu, Le Minh Nguyen, "A Multilingual Parallel Corpus for Improving Machine Translation on Southeast Asian Languages", in The Machine Translation Summit XVI, Nagoya Japan, 2017.
 
 # multi-wiki
 
